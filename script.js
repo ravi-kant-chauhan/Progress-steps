@@ -22,4 +22,5 @@ prev.addEventListener('click', () => {
         currentActive = 1
     }
 
+    update()
 })
